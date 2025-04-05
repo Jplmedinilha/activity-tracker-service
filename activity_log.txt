@@ -1,0 +1,5 @@
+2025-04-05 17:33:44.336477 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:34:44.894738 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 17:35:45.360236 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:36:14.114976 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:37:14.636502 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
