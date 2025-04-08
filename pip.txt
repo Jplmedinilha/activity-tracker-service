@@ -1,0 +1,2 @@
+pip install pynput pygetwindow requests python-dotenv
+pip install keyboard mouse python-dotenv requests

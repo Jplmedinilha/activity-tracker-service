@@ -6,3 +6,561 @@
 2025-04-05 17:38:15.124445 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
 2025-04-05 17:39:15.624227 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
 2025-04-05 17:40:16.091830 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:41:16.578861 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:42:17.103628 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:43:17.595213 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:44:18.098737 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:45:18.579689 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 17:46:19.098120 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:47:19.659579 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:48:20.145495 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-05 17:49:20.609111 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:50:21.103857 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:51:21.584625 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:52:22.061922 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:53:22.540658 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-05 17:54:23.042063 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:55:23.546756 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-05 17:56:25.083916 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:57:25.569301 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 17:58:26.036928 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 17:59:26.530460 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:00:27.064950 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:01:27.573440 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:02:28.123745 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:03:28.609108 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:04:29.124963 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:05:29.730052 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 18:06:30.203545 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:07:30.678849 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:08:31.199497 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-05 18:09:31.765954 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:10:32.304556 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-05 18:11:32.774082 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 18:12:33.258701 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:13:33.745721 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:14:34.551649 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:15:35.057062 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:16:35.532155 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:17:36.045481 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:18:36.569592 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:19:37.083570 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:20:37.637196 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:21:38.125702 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:22:38.642298 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:23:39.133593 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:24:39.611786 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:25:40.069880 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:26:40.548036 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:27:41.021763 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:28:42.542454 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:29:43.011053 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:30:43.538477 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:31:44.019430 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:32:44.516469 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:33:45.036658 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:34:45.498968 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:35:45.982306 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:36:46.486233 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:37:46.983892 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:38:47.448719 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:39:47.916774 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:40:48.422697 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:41:48.897047 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:42:49.399205 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:43:49.871221 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:44:50.378187 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-05 18:45:50.855609 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:46:51.395383 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:47:51.857702 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:48:52.325197 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:49:52.794453 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:50:53.289925 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:51:53.780657 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:52:54.290184 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:53:54.797752 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:54:55.293110 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:55:55.793361 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:56:56.289908 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:57:56.781251 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:58:57.256449 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 18:59:57.731397 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:00:58.237458 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:01:58.707164 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:02:59.179192 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:03:59.683598 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:05:00.153778 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:06:00.649660 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:07:01.118920 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:08:01.590942 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:09:02.077234 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:10:02.561393 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:11:03.097800 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:12:03.578056 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:13:04.052146 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:14:04.539438 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:15:04.665617 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B127C50>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:16:04.707916 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B127ED0>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:17:04.718669 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EDD10>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:18:04.732403 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1ED310>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:19:04.745091 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EC550>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:20:04.759365 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1ED590>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:21:04.767609 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EC7D0>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:22:04.781294 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EE0D0>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:23:04.792929 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EE490>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:24:05.334601 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:25:05.348201 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EDA90>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:26:05.359219 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EEC10>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:27:05.366075 - Erro: HTTPSConnectionPool(host='joao-activity-tracker-production.up.railway.app', port=443): Max retries exceeded with url: /monitoramento (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002615B1EEFD0>: Failed to resolve 'joao-activity-tracker-production.up.railway.app' ([Errno 11001] getaddrinfo failed)"))
+2025-04-05 19:28:05.845097 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:29:06.334121 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:30:06.847243 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:31:07.313186 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:32:07.781537 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:33:08.273779 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:34:09.023919 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:35:09.514767 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:36:10.024375 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:37:10.542115 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:38:11.040253 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-05 19:39:11.530919 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:40:12.041208 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:41:12.545095 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:42:13.049431 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:43:13.540679 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:44:14.040686 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:45:14.532513 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:46:15.017414 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:47:15.518154 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:48:15.986546 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:49:16.550804 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:50:17.040194 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:51:17.561274 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:52:18.050688 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:53:18.525098 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:54:19.381574 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:55:19.860337 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:56:20.346819 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:57:20.843283 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:58:21.375138 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 19:59:21.860085 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-05 20:00:22.352757 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 09:20:57.187888 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-06 09:21:57.665746 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-06 09:22:58.153329 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-06 09:25:10.679874 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:46:04.097035 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:47:04.636648 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:48:05.231256 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:49:05.741798 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:50:06.254062 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:51:07.279538 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:52:07.821640 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:53:08.368100 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:54:08.915699 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:55:09.429034 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:56:09.904368 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:57:10.395688 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:58:10.919267 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 11:59:11.439385 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:00:11.920498 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:01:12.432321 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:02:12.903608 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:03:13.423987 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:04:13.919184 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:05:14.405764 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:06:14.885152 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:07:15.383197 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:08:15.908262 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:09:16.463470 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:10:16.972804 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:11:17.568041 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:12:18.058837 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:13:18.566957 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:14:19.112804 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:15:19.573684 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:16:20.314425 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:17:20.835698 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:18:21.354877 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:19:21.909749 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:20:22.485409 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:21:23.037022 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:22:23.563968 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:23:24.108988 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:24:24.560402 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:25:25.045807 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:26:25.528170 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:27:26.035129 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:28:26.546538 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:29:27.032965 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:30:27.511149 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:31:28.008972 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:32:28.490350 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:33:28.965488 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:34:29.468563 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:35:30.023541 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:36:30.559536 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:37:31.089447 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:38:31.570977 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:39:32.095786 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:40:32.578531 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:41:33.160094 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:42:33.650891 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:43:34.159762 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:44:34.708148 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:45:35.185534 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:46:35.764717 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:47:36.301216 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:48:36.838472 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:49:37.377573 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:50:37.868326 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:51:38.390096 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:52:38.918973 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:53:39.461151 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:54:40.083523 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-06 12:55:40.598247 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:39:42.744315 - PC está bloqueado. Dados não enviados.
+2025-04-07 11:40:43.354078 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-07 11:41:43.914923 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-07 11:42:44.379901 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-07 11:43:44.861094 - Enviado: 500 | Resp: {"error":"Erro interno do servidor"}
+2025-04-07 11:44:45.372082 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-07 11:45:45.886544 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 11:46:46.529869 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-07 11:47:47.079367 - Enviado: 201 | Resp: {"status":"OK","activity":"jogando"}
+2025-04-07 11:48:47.696664 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:49:48.373796 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:50:48.872218 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:51:49.407172 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:52:49.892958 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:53:50.361439 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:54:50.881596 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 11:55:51.484364 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:56:52.075437 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:57:52.723469 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 11:58:53.199333 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 11:59:53.864548 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:00:54.382880 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:01:55.004095 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 12:02:55.521318 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:03:56.347663 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:04:56.866862 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:05:57.385629 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:06:58.006079 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:07:58.531328 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:08:59.149000 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:09:59.624859 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:11:00.357514 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:12:01.010100 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:13:01.629582 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:14:02.175537 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:15:02.763834 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:16:04.165011 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:17:04.663651 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:18:05.246375 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:19:05.698535 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:20:06.174713 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:21:06.728179 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:22:07.737419 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:23:08.237976 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:24:08.772871 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:25:09.249558 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:26:10.111856 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 12:27:10.735307 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:28:11.275317 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:29:11.875983 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:30:12.394580 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:31:13.001892 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 12:32:13.878767 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:33:14.361617 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:34:15.066087 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:35:15.706119 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:36:16.306337 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:37:16.950052 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:38:17.570655 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:39:18.808132 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:40:19.285960 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:41:19.846089 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:42:20.342362 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:43:20.875611 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 12:44:21.520823 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:45:22.122221 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:46:22.793546 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 12:47:23.274208 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:48:23.878704 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:49:24.499564 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:50:25.125478 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:51:25.743036 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:52:26.297198 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:53:26.799384 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:54:27.307961 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:55:27.862823 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:56:28.439926 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:57:29.063794 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:58:29.679617 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 12:59:30.301151 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:00:30.823492 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:01:31.293119 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:02:31.773437 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:03:32.376367 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:04:32.883629 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:05:33.390988 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:06:33.878658 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:07:34.568344 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:08:35.075897 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:09:35.638129 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:10:36.124316 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:11:36.671525 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:12:37.170766 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:13:37.676631 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:14:38.193748 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:15:39.013422 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:16:39.503621 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:17:40.114039 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:18:40.606445 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:19:41.109347 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:20:41.630920 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:21:42.123413 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:22:42.681914 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:23:43.176039 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:24:43.717276 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:25:44.406249 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 13:26:44.874051 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:27:45.541310 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:28:46.163044 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:29:46.645140 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:30:47.274765 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:31:47.820654 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:32:48.441803 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:33:49.062882 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:34:49.564208 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:35:50.044845 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:36:50.549625 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:37:51.140970 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:38:51.659311 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:39:52.189636 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:40:52.707931 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:41:53.259195 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:42:53.751978 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:43:54.456202 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:44:55.091074 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:45:55.696349 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:46:56.324187 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:47:56.940083 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:48:57.459218 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:49:58.020535 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:50:58.597240 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:51:59.264411 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:52:59.846018 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:54:00.461960 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:55:00.954062 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:56:01.501545 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 13:57:02.121247 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:58:02.689610 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 13:59:03.259943 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:00:03.814863 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:01:04.338523 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:02:04.917641 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:03:05.555003 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:04:06.160733 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:05:06.667791 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:06:07.304414 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:07:07.818214 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:08:08.384695 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:09:08.892598 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:10:09.477961 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:11:10.099219 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:12:10.658572 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:13:11.237179 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:14:11.857953 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:15:12.449372 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:16:13.101866 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:17:13.619696 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:18:14.243583 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:19:14.874994 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:20:15.893574 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:21:16.514268 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:22:17.039705 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:23:17.602649 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:24:18.276361 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:25:18.896767 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:26:19.622855 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:27:20.243855 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:28:20.865105 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:29:21.426227 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:30:21.927597 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:31:22.522830 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:32:23.143115 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:33:23.707647 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:34:24.389214 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:35:24.957299 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:36:25.628075 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:37:26.246844 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:38:27.018886 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:39:27.500195 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:40:28.009911 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:41:28.632239 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:42:29.152627 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:43:29.668917 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:44:30.245016 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:45:31.008599 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 14:46:31.633332 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:47:32.259882 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:48:33.067442 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 14:49:33.544246 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 14:50:34.134099 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 14:51:34.740560 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 14:52:36.292666 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:53:36.768899 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 14:54:37.316920 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:55:37.920642 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:56:38.562929 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:57:39.107143 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 14:58:39.686959 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 14:59:40.323655 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:00:40.895001 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:01:41.473117 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:02:41.977835 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:03:42.704430 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:04:43.258959 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:05:44.047892 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:06:44.553196 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 15:07:45.072319 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:08:45.602291 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:09:46.123900 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:10:46.636808 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:11:47.361228 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:12:47.846073 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:13:48.503500 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:14:49.125492 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:15:49.645461 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 15:16:50.266191 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:17:50.752787 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:18:51.402506 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:19:52.006823 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:20:52.642695 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 15:21:53.137452 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:22:53.704107 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:23:55.328227 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:24:55.913106 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:25:56.444476 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:26:57.088247 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:27:57.707926 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:28:58.330798 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:29:58.951733 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:30:59.503103 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:32:00.091479 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:33:00.705614 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:34:01.334974 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:35:01.850043 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:36:02.343122 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 15:37:02.892555 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 15:38:03.449772 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:39:04.133137 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:40:04.607258 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 15:41:05.201559 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:42:05.690994 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:43:06.212772 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 15:44:06.936094 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:45:07.423605 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:46:08.067914 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:47:08.702494 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:48:09.207519 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:49:09.724570 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:50:10.285589 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:51:10.970262 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 15:52:11.535589 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:53:12.215658 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:54:12.704980 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:55:13.198543 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:56:13.781871 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:57:14.264441 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 15:58:14.747998 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 15:59:15.423907 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:00:16.026018 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:01:16.563158 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:02:17.113216 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:03:17.910557 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:04:18.531387 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:05:19.109260 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:06:19.718550 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:07:20.447578 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:08:21.118954 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:09:21.604829 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:10:22.173488 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 16:11:22.723847 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:12:23.398666 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:13:23.995227 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:14:24.608145 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:15:25.161053 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:16:25.779304 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:17:26.274636 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:18:26.815403 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:19:27.362299 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:20:27.952739 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:21:28.471577 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:22:29.047949 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 16:23:29.559661 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:24:30.232933 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:25:30.855374 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:26:31.529177 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:27:32.201058 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:28:32.742378 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:29:33.347562 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:30:33.962897 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:31:35.119510 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:32:35.621913 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 16:33:36.114419 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:34:36.586206 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:35:37.205885 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:36:37.687597 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:37:38.178460 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:38:38.825539 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:39:39.386265 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:40:40.068733 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:41:40.542390 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 16:42:41.134334 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:43:41.673229 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:44:42.276465 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:45:42.810943 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:46:43.490193 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:47:44.029071 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:48:44.631934 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:49:45.148015 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:50:45.767716 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 16:51:46.388787 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:52:47.012647 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:53:47.634012 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:54:48.166115 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 16:55:48.973045 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 16:56:49.542722 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 16:57:50.221102 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 16:58:50.996793 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 16:59:51.665546 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 17:00:52.222381 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:01:53.215171 - Enviado: 201 | Resp: {"status":"OK","activity":"em reunião"}
+2025-04-07 17:02:53.835072 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:03:54.427271 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:04:54.910572 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:05:55.598717 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:06:56.213314 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 17:07:56.748576 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:08:57.225999 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:09:57.759035 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:10:58.394785 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:11:58.927805 - Enviado: 201 | Resp: {"status":"OK","activity":"programando"}
+2025-04-07 17:12:59.534737 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:14:00.050138 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:15:00.571887 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 17:16:01.132472 - Enviado: 201 | Resp: {"status":"OK","activity":"assistindo"}
+2025-04-07 17:17:01.811065 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:18:02.431466 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:19:03.014679 - Enviado: 201 | Resp: {"status":"OK","activity":"scrolling"}
+2025-04-07 17:20:03.676640 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:21:04.219110 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:22:04.712249 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:23:05.254573 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:24:05.750616 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:25:06.234881 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:26:06.726483 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
+2025-04-07 17:27:07.235083 - Enviado: 201 | Resp: {"status":"OK","activity":"atividade desconhecida"}
