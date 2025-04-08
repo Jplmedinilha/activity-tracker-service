@@ -1,3 +1,4 @@
 build
 dist
 .env
+activity_log.txt
