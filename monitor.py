@@ -8,6 +8,7 @@ from pynput import mouse, keyboard
 from win10toast_click import ToastNotifier
 from time import time as now
 from pytz import timezone
+from requests.auth import HTTPProxyAuth
 
 load_dotenv()
 
@@ -17,6 +18,24 @@ SHORTCUTS = [s.strip().lower() for s in os.getenv("SHORTCUTS", "").split(",") if
 KEYS = [k.strip().lower() for k in os.getenv("KEYS", "").split(",") if k.strip()]
 
 HOSTNAME = os.getenv("HOSTNAME")
+
+# Proxy config
+
+proxy_host = os.getenv("PROXY_CONFIG_HTTP")
+proxy_user = os.getenv("PROXY_USER")
+proxy_pw = os.getenv("PROXY_PW")
+
+proxies = None
+auth = None
+
+if proxy_host:
+    proxies = {
+        "http": f"http://{proxy_host}",
+        "https": f"http://{proxy_host}"
+    }
+
+    if proxy_user and proxy_pw:
+        auth = HTTPProxyAuth(proxy_user, proxy_pw)
 
 CONTROL_CHAR_MAP = {
     '\x03': 'ctrl+c',  # Ctrl+C
@@ -162,7 +181,17 @@ def send_data():
     headers = {"x-auth-hash": X_AUTH_HASH}
 
     try:
-        response = requests.post(WEBSERVICE_URL, json=payload, headers=headers, timeout=10)
+        response = requests.post(
+            WEBSERVICE_URL,
+            json=payload,
+            headers=headers,
+            timeout=10,
+            verify=False,
+            proxies=proxies,
+            auth=auth
+        )
+        # print("HEADERS:", headers)
+        # print("PAYLOAD:", payload)
         if response.status_code == 201:
             log_msg = f"{response.status_code} {response.reason} | Dados enviados com sucesso"
         else:
@@ -184,4 +213,4 @@ keyboard.Listener(on_press=on_press, on_release=on_release).start()
 
 while True:
     send_data()
-    time.sleep(6)
+    time.sleep(60)
